@@ -1,2 +1,2 @@
 # MediaPlayer_QML
-Media Player Project written with Qt/Qml
+Media Player Project - Qt/Qml
