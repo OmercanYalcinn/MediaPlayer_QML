@@ -1,0 +1,6 @@
+#include "v02_mediaPlayer"
+
+v02Player::v02Player()
+{
+
+}
