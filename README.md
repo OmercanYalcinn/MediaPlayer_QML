@@ -1,5 +1,5 @@
 # MediaPlayer_QML
-Media Player Project - Qt/Qml
+Media Player Project - Qt/Qml - Internship Project
 
 Features:
   Default Play/Pause button
