@@ -18,8 +18,6 @@ Popup {
     modal: true
     focus: true
     dim: true
-    //Material.theme: Material.BlueGrey
-    //Material.accent: sliderColor
     width: 600
     height: 365
     closePolicy: Popup.NoAutoClose
@@ -88,7 +86,6 @@ Popup {
                     id: closeIcon
                     text: "EXIT"
                     icon.name: "closeButton"
-                    //icon.source: "file///C:/Users/omercan.yalcin/Desktop/QT/closeIcon.png"
 
                     onClicked: {
                         uiSettingsPopupId.close()
